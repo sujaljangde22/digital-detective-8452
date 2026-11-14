@@ -74,4 +74,5 @@ I asked for an explanation and learned that `staff` is a standard macOS group as
 
 ## Commit Details
 
-Planned commit message: Complete Terminal and file management mission
+**Commit message:** `Complete Terminal and file management mission`  
+**Push status:** Verified on GitHub (commit `6caa74f`).
