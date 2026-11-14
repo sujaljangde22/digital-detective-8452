@@ -43,5 +43,5 @@ Not applicable.
 
 ## Commit Details
 
-- Commit message: [Fill in after committing]
-- Push status: [Fill in after verifying on GitHub]
+- Commit message: `Complete Python program and compiler comparison`
+- Push status: Verified on GitHub (commit `9ed8489`).
