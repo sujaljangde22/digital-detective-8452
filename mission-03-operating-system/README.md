@@ -69,5 +69,5 @@ I used Activity Monitor to find Safari and its helper process and read their PID
 
 ## Commit Details
 
-- Commit message: [Fill in after committing]
-- Push status: [Fill in after verifying on GitHub]
+- Commit message: `Document operating system and file management`
+- Push status: Verified on GitHub (commit `26ccb9c`).
