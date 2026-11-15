@@ -47,5 +47,5 @@ I put the project overview and converter instructions in the root README. I reco
 ## Commit Details
 
 - Commit message: `Complete final report and repository review`
-- Push status: Pending verification on GitHub.
-- Submission status: Pending submission through the instructor’s form.
+- Push status: Verified on GitHub (commit `78db4e5`).
+- Submission status: Deferred.
