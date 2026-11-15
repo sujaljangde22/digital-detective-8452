@@ -42,5 +42,5 @@ I edited and saved the root README, then staged and committed the change on `upd
 
 ## Commit Details
 
-- Commit message: `Complete Git and GitHub collaboration mission`
-- Push status: [Fill in after verifying on GitHub]
+- Push status: Verified on GitHub (commit `609f529`).
+- Pull request #1: Open from `update-about` into `main`. Not merged.
