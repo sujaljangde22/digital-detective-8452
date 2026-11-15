@@ -18,3 +18,8 @@ This project is for my Diwali assignment. Through its missions, i will explore h
 ## Workflow
 
 I will complete each mission in order, document my work in its README file and commit and push it to GitHub before starting the next mission.
+## My Learning
+
+- I used Activity Monitor to find Safari’s PID and saw that one app can run several processes.
+- I learned how to read file permissions and tell whether the owner can read, write, or execute a file.
+- I built a Python program that converts a decimal number to binary and hexadecimal.
