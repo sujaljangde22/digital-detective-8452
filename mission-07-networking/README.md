@@ -57,4 +57,4 @@ This README contains the ping statistics and the public IPv4 addresses returned 
 ## Commit Details
 
 - Commit message: `Explain networking concepts and website communication`
-- Push status: [Fill in after verifying on GitHub]
+-- Push status: Verified on GitHub (commit `04ec10a`).
