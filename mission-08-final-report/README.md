@@ -48,4 +48,4 @@ I put the project overview and converter instructions in the root README. I reco
 
 - Commit message: `Complete final report and repository review`
 - Push status: Verified on GitHub (commit `78db4e5`).
-- Submission status: Deferred.
+- Submission status: Submitted.
